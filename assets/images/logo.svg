@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 44" width="180" height="44" role="img" aria-label="AuraAI Logo">
+  <defs>
+    <linearGradient id="auraGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4f46e5" />
+      <stop offset="100%" stop-color="#06b6d4" />
+    </linearGradient>
+  </defs>
+  <rect x="2" y="4" width="36" height="36" rx="10" fill="url(#auraGrad)" />
+  <path d="M20 12L28 28H12L20 12Z" fill="#ffffff" />
+  <circle cx="20" cy="25" r="3" fill="#4f46e5" />
+  <text x="48" y="29" font-family="system-ui, -apple-system, sans-serif" font-size="22" font-weight="800" fill="#0f172a">Aura<tspan fill="#4f46e5">AI</tspan></text>
+</svg>
